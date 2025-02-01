@@ -36,10 +36,8 @@ This is a dynamic and interactive Quiz Application that allows users to take qui
 3. Select a quiz category and start answering the questions.
 4. View your score at the end of the quiz.
 
-## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React (if applicable)
-- **Backend:** Node.js, Express, Python, Flask (depending on implementation)
-- **Database:** MongoDB, Firebase, or SQLite (if applicable)
+
+
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
